@@ -77,3 +77,4 @@ CREATE TABLE Order_Items (
     REFERENCES Menu_Items(item_id)
 );
 SHOW TABLES;
+DESCRIBE Customers;
