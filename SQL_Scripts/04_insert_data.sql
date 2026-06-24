@@ -6,6 +6,10 @@ VALUES
 ('Priya Patel','priya@gmail.com','9876543212','Mumbai'),
 ('Amit Verma','amit@gmail.com','9876543213','Delhi'),
 ('Sneha Joshi','sneha@gmail.com','9876543214','Nagpur');
+INSERT INTO Customers
+(customer_name,email,phone,address)
+VALUES
+('Kartik Raut','kagna@gmail.com','9887423210','Bengluru');
 SELECT * FROM Customers;
 
 INSERT INTO Restaurants
